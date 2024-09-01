@@ -1,0 +1,21 @@
+.note {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.editorial {
+  background: rgb(255, 0, 0, 0.25);
+  padding: 10px;
+}
+
+.img {
+        width: 400px;
+        height:auto;
+}
+
+.body{
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+}
